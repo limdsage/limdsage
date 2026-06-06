@@ -1,5 +1,6 @@
 - 👋 limDsage here!
-- 💻 IT professional trying to dive in the world of Cybersecurity
+- 💻 IT and Security Engineer
+- ⚔️ Worldbuilding
   
 <!---
 limdsage/limdsage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
