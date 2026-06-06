@@ -1,4 +1,3 @@
-- 👋 limDsage here!
 - 💻 IT and Security Engineer
 - ⚔️ Worldbuilding
   
